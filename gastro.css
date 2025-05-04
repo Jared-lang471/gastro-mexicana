@@ -1,27 +1,54 @@
-/* Colores de la bandera mexicana */
+/* Fondo general con colores de la bandera mexicana */
 body {
     margin: 0;
-    font-family: 'Segoe UI', sans-serif;
-    background: linear-gradient(to right, #006341 33.3%, #ffffff 33.3%, #ffffff 66.6%, #ce1126 66.6%);
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to right, #006341, #ffffff, #ce1126);
     color: #222;
     text-align: center;
-    padding: 40px;
 }
 
-/* Encabezado con estilo festivo */
+/* Título principal */
 h1 {
-    font-size: 2.5em;
+    font-size: 3em;
     color: #006341;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
-    margin-bottom: 20px;
+    margin-top: 40px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 
-/* Caja con borde decorativo */
+/* Contenedor de contenido */
 .container {
-    background-color: white;
-    border: 5px double #ce1126;
-    max-width: 600px;
-    margin: auto;
+    background-color: rgba(255, 255, 255, 0.9);
+    margin: 40px auto;
     padding: 30px;
-    border-radius
+    border-radius: 12px;
+    width: 80%;
+    max-width: 600px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Botón estilo mexicano */
+button {
+    background-color: #ce1126;
+    color: white;
+    padding: 12px 25px;
+    font-size: 1em;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #a30e1a;
+}
+
+/* Pie de página */
+footer {
+    margin-top: 50px;
+    padding: 15px;
+    background-color: #006341;
+    color: white;
+    font-size: 0.9em;
 }
