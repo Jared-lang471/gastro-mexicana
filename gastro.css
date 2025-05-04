@@ -1,0 +1,26 @@
+/* Colores de la bandera mexicana */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to right, #006341 33.3%, #ffffff 33.3%, #ffffff 66.6%, #ce1126 66.6%);
+    color: #222;
+    text-align: center;
+    padding: 40px;
+}
+
+/* Encabezado con estilo festivo */
+h1 {
+    font-size: 2.5em;
+    color: #006341;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+    margin-bottom: 20px;
+}
+
+/* Caja con borde decorativo */
+.container {
+    background-color: white;
+    border: 5px double #ce1126;
+    max-width: 600px;
+    margin: auto;
+    padding: 30px;
+    border-radius
