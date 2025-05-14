@@ -2,25 +2,8 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Arial', sans-serif;
+    font-family: 'mxcode', sans-serif;
     background: linear-gradient(to right, #006341, #ffffff, #ce1126);
     text-align: center;
     color: #222;
-}
-
-/* Título principal */
-h1 {
-    margin-top: 50px;
-    color: #057718;
-    font-size: 3em;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
-}
-
-/* Pie de página */
-footer {
-    margin-top: 50px;
-    padding: 20px;
-    background-color: #006341;
-    color: white;
-    font-size: 0.9em;
 }
