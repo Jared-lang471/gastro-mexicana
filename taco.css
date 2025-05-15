@@ -1,6 +1,7 @@
 body {
     font-family: 'arial', sans-serif;
-    color: khaki;
+    background-color: khaki;
+    color: rgb(0, 0, 0);
 }
 
 h1 {
