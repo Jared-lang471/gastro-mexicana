@@ -1,1 +1,11 @@
-c
+body {
+    font-family: 'arial', sans-serif;
+    background-color: rgb(151, 102, 74);
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+    color: #693616;
+}
