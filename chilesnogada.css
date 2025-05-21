@@ -1,11 +1,19 @@
 body {
     font-family: 'arial', sans-serif;
-    background-color: rgb(145, 255, 71);
+    background-color: rgb(94, 121, 28);
     color: rgb(0, 0, 0);
 }
 
 h1 {
     font-size: 100px;
     text-align: center;
-    color: #c00e0e;
+    color: #872222;
+}
+ 
+i {
+   font-size: 20px; 
+}
+
+li {
+   font-size: 20px;  
 }
