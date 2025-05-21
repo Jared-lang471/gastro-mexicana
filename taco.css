@@ -4,15 +4,9 @@ body {
     color: rgb(0, 0, 0);
 }
 
-header {
-    display: flex;
-    height: 120px;
-    background-color: #946d1a;
-    justify-content: space-between;
-}
-
 h1 {
     font-size: 100px;
+    font-weight: bold;
     text-align: center;
     color: #efb73e;
 }
