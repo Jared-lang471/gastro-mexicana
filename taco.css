@@ -6,7 +6,7 @@ body {
 
 header {
     display: flex;
-    height: 70px;
+    height: 120px;
     background-color: #946d1a;
     justify-content: space-between;
 }
