@@ -3,12 +3,17 @@ body {
     background-color: rgb(94, 121, 28);
     color: rgb(0, 0, 0);
 }
-
-h1 {
-    font-size: 100px;
-    text-align: center;
+header {
+    padding: 200px;
+    background-color: #f1f3ef;
     color: #872222;
+    text-align: center;
 }
+
+header h1 {
+    font-size: 100px;
+}
+
  
 i {
    font-size: 20px; 

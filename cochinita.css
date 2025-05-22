@@ -4,10 +4,15 @@ body {
     color: rgb(0, 0, 0);
 }
 
-h1 {
-    font-size: 100px;
+header {
+    padding: 200px;
+    background-color: #b41993;
+    color: #821052;
     text-align: center;
-    color: #c7358a;
+}
+
+header h1 {
+    font-size: 100px;
 }
 
 i {
