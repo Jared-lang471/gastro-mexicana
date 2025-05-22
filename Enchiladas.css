@@ -1,13 +1,13 @@
 body {
     font-family: 'arial', sans-serif;
-    background-color: rgb(240, 177, 140);
+    background-color: rgb(244, 156, 106);
     color: rgb(0, 0, 0);
 }
 
 header {
     padding: 40px;
-    background-color: #cb543f;
-    color: #8d290a;
+    background-color: #983c3c;
+    color: #efd8d1;
     text-align: center;
     margin: 4.5em;
 }
